@@ -1,0 +1,40 @@
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+}
+div{
+    text-align: center;
+    background: blue;
+    margin-top: 0;
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+    box-sizing: content-box;
+}
+div a.login{
+    display: block;
+    color:white;
+    text-decoration: 0px;
+    text-align-last: right;
+    margin-top: 0px;
+
+}
+nav ol{
+    background: grey;
+    text-align: start;
+    margin-top: 0px;
+}
+nav li{
+
+   display: inline-block;
+    list-style: none;
+    padding: 10px;
+    font-weight: bold;
+}
+section h1{
+    text-align-last: center;
+    text-decoration: underline black;
+    background: aliceblue;
+}
+section h3{
+    text-align: center;
+}
